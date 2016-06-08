@@ -1,24 +1,23 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:46:22.168657
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:57
 #+TITLE: 大乘無生方便門
 #+PROPERTY: CBETA_ID T85n2834
 #+PROPERTY: ID KR6q0106
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 85, No. 2834
 #+PROPERTY: VOL 85
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6q0106_T_000-1273b>¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6q0106_T_001-1273b> ¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
-No.2834¶
-
- 大乘無生方便門¶
+No. 2834¶
+大乘無生方便門¶
 ¶
 
 第一總彰佛體。第二開智慧門。第三顯示不¶
 思議法。第四明諸法正性。第五自然無礙解¶
-脫道　各各䠒跪合掌當教令發四弘誓願¶
+脫道　各各䠒合掌當教令發四弘誓願¶
 　眾生無邊誓願度。煩惱無邊誓願斷。法門無¶
 盡誓願學。無上佛道誓願證　次請十方諸¶
 佛為和尚等　次請三世諸佛菩薩等　次教¶
