@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:46:22.168657
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:57
 #+TITLE: 大乘無生方便門
 #+PROPERTY: CBETA_ID T85n2834
 #+PROPERTY: ID KR6q0106
